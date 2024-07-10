@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Provide a brief introduction to the document, explaining the context and importance of the changes and architectural details being documented.
+This document aims to provide a comprehensive analysis of the differences in code and system architecture between the current implementation and the proposed changes.
 
 ## Summary of Changes
 - Change image version from version 2.5.1 to latest in `compose.yaml`.
