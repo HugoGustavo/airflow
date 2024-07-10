@@ -68,10 +68,12 @@ Place your custom plugins in the `./plugins` directory.
 
 ```
 .
-├── dags/           # Directory for DAG files
-├── logs/           # Directory for logs
-├── plugins/        # Directory for custom plugins
+├── dags/               # Directory for DAG files
+├── logs/               # Directory for logs
+├── plugins/            # Directory for custom plugins
 ├── .gitignore
+├── architecture.png    # Architecture Diagram
+├── CHANGELOG.md        # Code changes
 ├── compose.yaml
 ├── LICENSE
 ├── README.md
